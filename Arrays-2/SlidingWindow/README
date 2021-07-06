@@ -1,0 +1,29 @@
+SlidingWindows are of 2 types 
+See this video -------------------------------------------MUST WATCH--------------------------
+https://www.youtube.com/watch?v=MK-NZ4hN7rs&t=622s
+
+for(end : tillArrayLast)
+{
+
+	//Look for end condition 
+
+	if(end meets some condition)
+	{
+		//Increment start for ex: start++;
+	}
+}
+
+
+Dynamic Window
+
+for(end : tillArrayLast)
+{
+
+	//Look for end condition 
+
+	while(end meets some condition)
+	{
+		//Increment start for ex: start++;
+	}
+}
+[9:34 PM, 6/12/2021] Sridhar Vja: this is good
